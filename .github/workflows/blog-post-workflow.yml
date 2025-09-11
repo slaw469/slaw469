@@ -22,7 +22,7 @@ jobs:
           committer_username: "blog-post-bot"
           committer_email: "blog-post-bot@example.com"
           commit_message: "Updated with latest Version One Newsletter posts"
-          template: '- [$title]($url)'
+          template: "$newline- [$title]($url)"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
 
 
