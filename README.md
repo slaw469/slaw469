@@ -78,8 +78,7 @@ Click buttons above to issue new gamepad input, then refresh this page to view t
 </p>
 
 ## Latest From Version One Newsletter 📝
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [The Binary Mindset: Why Your Brain Only Understands 0 or 1](https://version-one-newsletter-35e73f.beehiiv.com/p/the-binary-mindset-why-your-brain-only-understands-0-or-1-fb15267a999d86d1)- [The Comfort Trap: Why Your Evening Routine Is Training You to Accept Mediocrity](https://version-one-newsletter-35e73f.beehiiv.com/p/the-comfort-trap-why-your-evening-routine-is-training-you-to-accept-mediocrity-d52c8fdd0edbdb5d)- [The $900/Month Blind Spot](https://version-one-newsletter-35e73f.beehiiv.com/p/the-900-month-blind-spot-936397784174f2c1)- [📨 My First Newsletter](https://version-one-newsletter-35e73f.beehiiv.com/p/my-first-newsletter)<!-- BLOG-POST-LIST:END -->
 
 ## Connect With Me <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif" width="50px" height="50px">
 
