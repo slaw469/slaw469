@@ -91,11 +91,7 @@ Click buttons above to issue new gamepad input, then refresh this page to view t
 <a href="https://github.com/slaw469"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </p>
 
-## Recent GitHub Activity <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width="50px" height="50px">
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=slaw469&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
 
 ## GitHub Stats <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif" width="32px" height="32px">
 
